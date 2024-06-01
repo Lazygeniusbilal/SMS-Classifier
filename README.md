@@ -5,6 +5,7 @@ Welcome to the SMS Classifier project! This end-to-end project showcases a compl
 📊 Data Analysis
 
 Exploratory Data Analysis (EDA): Performed in-depth analysis to understand the data distribution and uncover hidden patterns.
+
 Data Cleaning: Removed duplicates, handled missing values, and ensured data quality for robust model performance.
 
 🧹 Data Preprocessing
